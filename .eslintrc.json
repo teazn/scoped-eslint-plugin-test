@@ -1,0 +1,8 @@
+{
+    "extends": [
+        "eslint:recommended",
+        "plugin:@teazn/teazn/recommended"
+    ],
+    "parserOptions": {},
+    "plugins": ["@teazn/teazn"]
+}

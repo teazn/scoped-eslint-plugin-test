@@ -1,0 +1,23 @@
+{
+  "name": "@teazn/scoped-eslint-plugin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@teazn/eslint-plugin-teazn": "^1.0.1",
+    "eslint": "^8.1.0"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teazn/scoped-eslint-plugin-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teazn/scoped-eslint-plugin-test/issues"
+  },
+  "homepage": "https://github.com/teazn/scoped-eslint-plugin-test#readme"
+}
